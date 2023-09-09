@@ -1,3 +1,6 @@
+Camila Giraldo Ramirez
+Sebastian Ocampo Grajales
+
 numeros_ingles = {'1':'one','2':'two','3':'three'}
 
 def crear_registro():
